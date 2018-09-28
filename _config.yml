@@ -1,6 +1,6 @@
 # Site settings
 title: "Mike Resume Template"
-description: "A resume template for my and GitHub Pages sites."
+description: "A resume template for my own and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
